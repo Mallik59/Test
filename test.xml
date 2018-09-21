@@ -1,0 +1,8 @@
+<p>
+<root>
+<company role="cite">Mallik<test>sdjfkd</test><dummy>dfnsjkd, remove this one</dummy>.</company>
+<company>this is not removable text</company>
+<company>test<test>sdjfkd</test><dummy>dfnsjkd</dummy>removable content</company>
+<company>test<test>sdjfkd</test><dummy>dfnsjkd</dummy>removable content<lol></lol></company>
+</root>
+</p>
